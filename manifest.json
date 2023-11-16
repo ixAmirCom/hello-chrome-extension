@@ -1,0 +1,10 @@
+{
+    "version": "1.0",
+    "manifest_version": 3,
+    "name": "AmirAli Zamani",
+    "description": "This is a Test",
+    "action": {
+        "default_popup": "index.html",
+        "default_icon": "icon.png"
+    }
+}
